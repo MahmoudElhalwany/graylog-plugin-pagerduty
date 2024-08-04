@@ -20,7 +20,7 @@ package org.graylog.plugins.pagerduty;
 
 import java.io.IOException;
 import java.util.List;
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 import org.graylog.events.notifications.EventNotification;
 import org.graylog.events.notifications.EventNotificationContext;
 import org.graylog.events.notifications.EventNotificationException;
